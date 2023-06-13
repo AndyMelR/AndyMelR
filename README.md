@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AndyMelR
 - 👀 I’m interested in technology, education, lifestyle and family
-- 🌱 I’m currently learning programming languages as Javascript, Python, Java and frameworks as React
-- 💞️ I’m looking to start my career on tech as Full Stack Developer
-- 📫 How to reach me by email: ameleror@gmail.com
+- 🌱 I work with programming languages as Javascript, Python, Java and frameworks as React
+- 🧐 I am a problem-solving skilled person, with a keen eye for detail and a drive for delivering high-quality code. 
+- 💻 Continuously seeking new challenges and opportunities to expand expertise in software development.
 
 <!---
 AndyMelR/AndyMelR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
