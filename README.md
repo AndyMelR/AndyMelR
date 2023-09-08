@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">A passionate Software Engineer from Spain</h3>
+<h3 align="center">A passionate Software Developer from Spain</h3>
 
-- 🔭 I’m currently working with **programming languages as Javascript, React, Python and Java**
+- 🔭 I’m currently working with **programming languages such as Javascript, React, Python, and Java**
 
 - 🌱 I’m currently learning **node.js, next.js and Springboot**
 
